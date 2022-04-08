@@ -8,13 +8,13 @@
 - [How to Run this Project](#how-to-run-this-project)
 - [Assumptions for Subset of C++](#assumptions)
 - [Sample Source Code](#sample-source-code)
-- [Screen Shots](#screen-shots)
+
 
 
 ## About this project:
 This project is a lexical analyzer generator written in C++. Lexical Analysis is the first phase of the compiler also known as a `scanner`. It converts the High level input program into a sequence of Tokens.
 
-<img src="Media%20Resources/outputgif.gif" width="650">
+
 
 ## Tokens:
 A lexical token is a sequence of characters that can be treated as a unit in the grammar of the programming languages.
@@ -66,19 +66,4 @@ int main(){
     cout << A * B ; 
 }
 ```
-
-### Screen Shots:
-
-#### MySourceCode.txt
-
-<img src="Media%20Resources/mysourcecode.png " width="500"><br><br>
-
-#### Output(Console)
-
-<img src="Media%20Resources/outputconsole.png " width="500"><br><br>
-
-#### OutputFile.txt
-
-<img src="Media%20Resources/outputfile.png " width="650">
-
     
